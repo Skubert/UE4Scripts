@@ -1,6 +1,6 @@
 # UE4Scripts
 
-Skrypty automatyzujce zadania do wykorzystania z Unrealowymi pluginami Python Editor Script Plugin i Editor.
+Skrypty automatyzujące zadania do wykorzystania z Unrealowymi pluginami Python Editor Script Plugin i Editor Scripting Utilities.
 4.19 i wyżej, testowane na 4.20.1, nie gwarantuję że będzie działać w 4.19.
 
 ## Cleanupassets
@@ -18,3 +18,4 @@ Służy do porządkowania zadanego folderu i sortowania assetów w nim zawartych
 4. Zrób "Fix Up Redirectors" na całym COntencie (a przynajmniej na folderze źródłowym)
 5. ???
 6. Profit!
+7. Usuń puste foldery
