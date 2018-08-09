@@ -14,3 +14,7 @@ Służy do porządkowania zadanego folderu i sortowania assetów w nim zawartych
  * string **targetFolder** na folder do którego chcesz mieć wrzucone posortowane assety,
  * opcjonalnie dictionary foldernames, podając jako klucz silnikową nazwę klasy i jako wartość customową nazwę folderu do którego assety tej klasy zostaną wrzucone.
 2. Odpalasz edytor, właczasz podane wyżej dwa pluginy, restartujesz edytor, wybierasz File->Execute Python Script i wybierasz cleanupassets.py
+3. Czekasz aż skrypt skończy (assety przestaną się zapisywać i edytor sie odfreezuje)
+4. Zrób "Fix Up Redirectors" na całym COntencie (a przynajmniej na folderze źródłowym)
+5. ???
+6. Profit!
