@@ -1,6 +1,7 @@
 # UE4Scripts
 
-Skrypty automatyzujce zadania do wykorzystania z Unrealowymi pluginami Python Editor Script Plugin i Editor 
+Skrypty automatyzujce zadania do wykorzystania z Unrealowymi pluginami Python Editor Script Plugin i Editor.
+4.19 i wyżej, testowane na 4.20.1, nie gwarantuję że będzie działać w 4.19.
 
 ## Cleanupassets
 
